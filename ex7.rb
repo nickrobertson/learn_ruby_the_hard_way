@@ -1,6 +1,6 @@
 puts "Mary had a little lamb."
+# item in single qoute is ignored
 puts "Its fleece was white as #{'snow'}."
-puts snow
 puts "And everywhere that Mary went."
 puts "." * 10 # what'd that do?
 
